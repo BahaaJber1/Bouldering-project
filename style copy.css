@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    color: #1b281b;
+    /* font-size: 50px; /* big no no! */
+    font-size: 1.25rem;
+    line-height: 1.6;
+}
+
+header {
+    /* text align can work on imgs cause they're inline elements! But make sure to select the parent of the img  */
+    text-align: center;
+}
+
+h1 {
+    color: #4676A9;
+    /* font-size: 50px; */
+    text-align: center;
+    font-size: 7.5rem;
+    line-height: 1.1;
+}
+
+h2 {
+    color: #cd721c;
+    font-size: 2.5rem;
+    inline-size: 350px;
+}
+
+h3 {
+    font-size: 1.75rem;
+}
+
+footer {
+    text-align: center;
+    background-color: #22466c;
+    color: #fff;
+    padding: 1rem;
+}
+
+section {
+    margin-block: 75px;
+}
+
+
+/*
+inline-size === width
+box-size === height
+margin-inline === the horizontal space for the elements
+margin-block === the vertical space between elements
+*/
