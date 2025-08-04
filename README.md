@@ -2,6 +2,11 @@
 
 Welcome to the Bouldering Project! This is a beginner-friendly website designed to introduce users to the world of bouldering, using simple HTML and CSS. The project is structured for easy learning and customization.
 
+<img width="1440" height="2425" alt="image" src="https://github.com/user-attachments/assets/c3d221b7-219c-4c33-b931-d41270e22f4e" />
+
+<img width="1440" height="1554" alt="image" src="https://github.com/user-attachments/assets/23fee814-cd85-4684-96f2-f63eee371568" />
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
